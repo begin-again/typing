@@ -1,0 +1,10 @@
+.letter {
+    color: grey;
+}
+ .letter.correct {
+    color: green;
+}
+.letter.wrong {
+    color: red;
+    font-weight: bold;
+}
